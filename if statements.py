@@ -36,7 +36,7 @@ def comparisons(a,b,c):
        return c
 
 
-print ( comparisons("dog","dog ","cat"))
+print ( comparisons("dog","dog ","mouse"))
 
 
 
